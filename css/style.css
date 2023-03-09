@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 /* General styles */
 
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins";
+  font-family: 'Poppins';
   box-sizing: border-box;
 }
 
