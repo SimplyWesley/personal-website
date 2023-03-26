@@ -34,7 +34,6 @@ function random() {
   const randomIndex = Math.floor(Math.random() * 26) + 1;
 
   const randomQuestion = questions[randomIndex];
-  console.log("test");
 
   console.log(randomQuestion);
 
